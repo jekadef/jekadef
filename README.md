@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jekadef
 - 👀 I’m interested in clinical informatics and machine learning for healthcare.
 - 🌱 I’m currently learning about NLP on clinical notes.
-- 💞️ I’m looking to collaborate on TBD!
+- 💞️ I’m looking to collaborate on methods for disease phenotyping on EHR data!
 - 📫 How to reach me jeskdef@gmail.com
 
 <!---
